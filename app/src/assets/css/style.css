@@ -1,9 +1,7 @@
 
 /* background and text formatting */
 body {
-    background-image: "url(/images/background.jpg)";
-    background-size: cover;
-    background-attachment: fixed;
+    background-image: url("https://images.designtrends.com/wp-content/uploads/2015/11/06084012/Light-Brown-Backgrounds.jpg");
     font-weight: bolder;
     font-size: large;
     color: black;
@@ -49,10 +47,13 @@ h1 {
 
 /* change sticky footer color */
 .footer {
-    background-color: rgba(66, 53, 28, 0.575);
-    position: absolute;
+    margin-top: 1rem;
+    padding: 1rem;
+    position: fixed;
     bottom: 0;
+    left: 0;
     width: 100%;
+    background-color: rgba(66, 53, 28, 0.575);
 }
 
 

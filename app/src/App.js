@@ -13,17 +13,22 @@ class App extends Component {
     return (
       <HashRouter basename="/">
         <div>
-          <Navbar />
+        <Navbar />
 
-          <Route exact path="/" component={Home} />
-          <Route path="/contact" component={Contact} />
-          <Route path="/portfolio" component={Portfolio} />
+        <Route exact path="/" component={Home} />
+        <Route path="/contact" component={Contact} />
+        <Route path="/portfolio" component={Portfolio} />
 
-          <Footer />
+        <Footer />
         </div>
-      </HashRouter>
+      </HashRouter >
     );
   }
 }
 
 export default App;
+
+// class="bg_image" style={{ backgroundImage: `url(${bg})`,
+// backgroundSize: "cover",
+// height: "100vh",
+// backgroundAttachment: "fixed"}}

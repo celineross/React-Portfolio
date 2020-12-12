@@ -22,7 +22,7 @@ function Contact() {
                     <h1>Contact Me</h1>
                     <hr />
                     <p>
-                        Feel free to message me anytime! I check my emails and LinkedIn daily, and I'll do
+                        Feel free to message me anytime! I check my email and LinkedIn daily, and I'll do
                         my best to respond as quickly as possible.
                     </p>
                     <p>
@@ -34,8 +34,8 @@ function Contact() {
                     <p>
                         Additionally, I can be found on <a href="https://www.linkedin.com/in/celine-ross-823b34180/" style={styles.linkColor} target="_blank" rel="noreferrer">LinkedIn</a> and <a href="https://github.com/celineross" style={styles.linkColor} target="_blank" rel="noreferrer">GitHub</a>.
                     </p>
-                    <p>
-
+                    <p style={{fontSize:"2rem", textAlign:"center", marginBottom:"5px", paddingTop:"10px"}}>
+                        Thanks for stopping by!
                     </p>
                 </div>
             </div>
