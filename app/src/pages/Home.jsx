@@ -31,22 +31,14 @@ function Home() {
                     </p>
                     <p>
                         Some of my hobbies include reading, writing, and now... coding! I've actually been playing
-                        with the
-                        idea of writing and publishing a book to Amazon to make some extra money and fulfill a
-                        lifelong dream
-                        of writing my own novel. I've been bouncing around ideas of possibly a young-adult novel, a
-                        fantasy
-                        series, or even a nonfiction book about the history of rock 'n roll. In addition to writing,
-                        I play
-                        drums recreationally. I aspire to join a band and perform once my skills are adequate enough
-                        to draw
-                        an audience. I'd wanted to play drums since I was really little, so as soon as I was able to
-                        afford
-                        a drum kit and some lessons, I dove right in. I bought my first real drum kit (I had to use
-                        an electronic
-                        kit when I lived in an apartment complex for noise reasons) about a year ago, and it is by
-                        far my most
-                        prized possession. I hope you enjoyed learning a little bit about me!
+                        with the idea of writing and publishing a book to Amazon to make some extra money and fulfill a
+                        lifelong dream of writing my own novel. I've been bouncing around ideas of possibly a young-adult novel, a
+                        fantasy series, or even a nonfiction book about the history of rock 'n roll. In addition to writing,
+                        I play drums recreationally. I aspire to join a band and perform once my skills are adequate enough
+                        to draw an audience. I'd wanted to play drums since I was really little, so as soon as I was able to
+                        afford a drum kit and some lessons, I dove right in. I bought my first real drum kit (I had to use
+                        an electronic kit when I lived in an apartment complex for noise reasons) about a year ago, and it is by
+                        far my most prized possession. I hope you enjoyed learning a little bit about me!
                     </p>
                 </section>
             </div>
