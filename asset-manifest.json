@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.aed7ed00.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.fe70f5b1.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.fe70f5b1.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.8a9248cb.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.8a9248cb.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.127bb608.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.127bb608.js.map",
     "static/js/2.d1e5b44d.chunk.js": "/React-Portfolio/static/js/2.d1e5b44d.chunk.js",
@@ -18,12 +18,12 @@
     "static/media/emp.23f4fca7.png": "/React-Portfolio/static/media/emp.23f4fca7.png",
     "static/media/myself_resized.2c23e072.jpg": "/React-Portfolio/static/media/myself_resized.2c23e072.jpg",
     "static/media/nightin.4a0a88a0.png": "/React-Portfolio/static/media/nightin.4a0a88a0.png",
-    "static/media/resume.6110326f.pdf": "/React-Portfolio/static/media/resume.6110326f.pdf"
+    "static/media/resume.3ba16398.pdf": "/React-Portfolio/static/media/resume.3ba16398.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.127bb608.js",
     "static/js/2.d1e5b44d.chunk.js",
     "static/css/main.aed7ed00.chunk.css",
-    "static/js/main.fe70f5b1.chunk.js"
+    "static/js/main.8a9248cb.chunk.js"
   ]
 }
