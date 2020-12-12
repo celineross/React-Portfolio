@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { HashRouter, Route, Link } from "react-router-dom";
+import Home from "./pages/Home"
 
 class App extends Component {
   render() {
@@ -21,7 +22,7 @@ class App extends Component {
   }
 }
 
-const Home = () => <div><h2>Home</h2></div>
+// const Home = () => <div><h2>Home</h2></div>
 const About = () => <div><h2>About</h2></div>
 
 export default App;
