@@ -27,23 +27,7 @@ function Home() {
                     <hr></hr>
                     <img className="img img-me" alt="me" src={img} style={styles.imgStyle} />
                     <p>
-                        Hello, my name is Celine Ross, I currently live in Austin, Texas. I'm 23 years old with a Bachelor's degree in Psychology with
-                        a minor
-                        in Wellness. I'm an only child, and I have one black cat named Merlin. I decided to enter
-                        the field
-                        of web development because my college degree, unsurprisingly, was pretty useless without
-                        further
-                        training. I started graduate school to become a Licensed Professional Counselor, but decided
-                        after
-                        about two months it wasn't the field for me and dropped out. I was working at Staples at the
-                        time
-                        in the print center, and decided to stay there full-time to pay my bills. After a while I
-                        became aware
-                        of the bootcamp programs at UTSA, my alma matre. I chose the web development program and I'm
-                        now
-                        enjoying it thoroughly. I look forward to the skills I'm going to develop, and being able to
-                        market
-                        my skills to future employers with the help of career services.
+                        Hello, my name is Celine Ross, I currently live in Austin, Texas. I'm a 23 year old full stack web developer currently looking for a junior developer position! I graduated from the University of Texas at San Antonio in 2019 with a Bachelor’s in Psychology with a focus in Emotional and Physical Wellness. After graduating and taking a couple Computer Science courses as electives, I decided that web development would be a really exciting new direction in my education. As a person who enjoys a challenge, I chose a 6 month bootcamp also hosted at UTSA. As my graduation date approaches, I’m very excited to break into the industry of web development and continue to hone my coding skills and challenge myself every day.
                     </p>
                     <p>
                         Some of my hobbies include reading, writing, and now... coding! I've actually been playing
