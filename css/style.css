@@ -5,16 +5,12 @@
 
 /* background and text formatting */
 body {
+    background-image: "url(/images/background.jpg)";
     background-size: cover;
     background-attachment: fixed;
     font-weight: bolder;
     font-size: large;
     color: black;
-}
-
-/* hides url to thank_you.html */
-.hide {
-    display: none;
 }
 
 /* establish size of my photo */
