@@ -20,10 +20,10 @@ function Navbar() {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mr-auto">
                         <li className="nav-item active">
-                            <NavLink className="nav-link" to="/contact">Contact</NavLink>
+                            <NavLink className="nav-link" style={styles.linkColor} to="/contact">Contact</NavLink>
                         </li>
                         <li className="nav-item active">
-                            <NavLink className="nav-link" to="/portfolio">Portfolio</NavLink>
+                            <NavLink className="nav-link" style={styles.linkColor} to="/portfolio">Portfolio</NavLink>
                         </li>
 
                     </ul>

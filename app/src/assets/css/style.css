@@ -1,7 +1,3 @@
-/* border box shortcut */
-* {
-    box-sizing: border-box;
-}
 
 /* background and text formatting */
 body {
@@ -11,13 +7,10 @@ body {
     font-weight: bolder;
     font-size: large;
     color: black;
+    position: relative;
+    padding-bottom: 60px;
 }
 
-/* establish size of my photo */
-.img-me {
-    width: 25%;
-    float: left;
-}
 
 /* background color of content boxes */
 .col-lg-12 {
@@ -41,6 +34,7 @@ h1 {
     width: 100%;
     max-width: 80%;
     margin: 0 auto;
+    margin-bottom: 40px;
 }
 
 /* centers portfolio thumbnails */
@@ -56,6 +50,9 @@ h1 {
 /* change sticky footer color */
 .footer {
     background-color: rgba(66, 53, 28, 0.575);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 

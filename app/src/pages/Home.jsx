@@ -1,13 +1,20 @@
 import React from "react";
 import "../assets/css/style.css";
+import img from "../assets/images/myself_resized.jpg"
 
 const styles = {
     divStyle: {
-        margin: "50px 10px 50px 10px"
+        margin: "0 auto",
+        marginTop: "30px",
+        marginBottom: "30px",
+        maxWidth: "80%"
     },
     imgStyle: {
         margin: "0 auto",
-        padding: "10px"
+        marginRight: "15px",
+        padding: "5px",
+        width: "25%",
+        float: "left"
     }
 }
 
@@ -18,7 +25,7 @@ function Home() {
                 <section className="col-lg-12 clearfix">
                     <h1>About Me</h1>
                     <hr></hr>
-                    <img className="img img-me" alt="me" src="images/myself_resized.jpg" style={styles.imgStyle} />
+                    <img className="img img-me" alt="me" src={img} style={styles.imgStyle} />
                     <p>
                         Hello, my name is Celine Ross, I currently live in Austin, Texas. I'm 23 years old with a Bachelor's degree in Psychology with
                         a minor

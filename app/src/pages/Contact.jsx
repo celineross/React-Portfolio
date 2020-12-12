@@ -3,7 +3,10 @@ import "../assets/css/style.css";
 
 const styles = {
     containerStyle: {
-        margin: "50px 10px 50px 10px"
+        margin: "0 auto",
+        marginTop: "30px",
+        marginBottom: "30px",
+        maxWidth: "80%"
     },
     linkColor: {
         color: "rgb(40, 46, 46)"
@@ -32,7 +35,7 @@ function Contact() {
                         Additionally, I can be found on <a href="https://www.linkedin.com/in/celine-ross-823b34180/" style={styles.linkColor} target="_blank" rel="noreferrer">LinkedIn</a> and <a href="https://github.com/celineross" style={styles.linkColor} target="_blank" rel="noreferrer">GitHub</a>.
                     </p>
                     <p>
-                        
+
                     </p>
                 </div>
             </div>
