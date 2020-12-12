@@ -2,6 +2,7 @@
 /* background and text formatting */
 body {
     background-image: url("https://images.designtrends.com/wp-content/uploads/2015/11/06084012/Light-Brown-Backgrounds.jpg");
+    background-attachment: fixed;
     font-weight: bolder;
     font-size: large;
     color: black;
@@ -36,13 +37,14 @@ h1 {
 }
 
 /* centers portfolio thumbnails */
-.col-lg-6 {
+.col-lg-4 {
     margin: 0 auto;
 }
 
 /* space between thumbnails */
 .sites {
     width: 100%;
+    height: 200px;
 }
 
 /* change sticky footer color */
