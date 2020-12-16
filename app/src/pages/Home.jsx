@@ -13,7 +13,7 @@ const styles = {
         margin: "0 auto",
         marginRight: "15px",
         padding: "5px",
-        width: "25%",
+        maxWidth: "30%",
         float: "left"
     }
 }
@@ -26,19 +26,36 @@ function Home() {
                     <h1>About Me</h1>
                     <hr></hr>
                     <img className="img img-me" alt="me" src={img} style={styles.imgStyle} />
-                    <p>
-                        Hello, my name is Celine Ross, I currently live in Austin, Texas. I'm a 23 year old full stack web developer currently looking for a junior developer position! I graduated from the University of Texas at San Antonio in 2019 with a Bachelor’s in Psychology with a focus in Emotional and Physical Wellness. After graduating and taking a couple Computer Science courses as electives, I decided that web development would be a really exciting new direction in my education. As a person who enjoys a challenge, I chose a 6 month bootcamp also hosted at UTSA. As my graduation date approaches, I’m very excited to break into the industry of web development and continue to hone my coding skills and challenge myself every day.
+                    <p style={{fontSize:"30px"}}>
+                        Welcome to My Homepage!
                     </p>
                     <p>
-                        Some of my hobbies include reading, writing, and now... coding! I've actually been playing
-                        with the idea of writing and publishing a book to Amazon to make some extra money and fulfill a
-                        lifelong dream of writing my own novel. I've been bouncing around ideas of possibly a young-adult novel, a
-                        fantasy series, or even a nonfiction book about the history of rock 'n roll. In addition to writing,
-                        I play drums recreationally. I aspire to join a band and perform once my skills are adequate enough
-                        to draw an audience. I'd wanted to play drums since I was really little, so as soon as I was able to
-                        afford a drum kit and some lessons, I dove right in. I bought my first real drum kit (I had to use
-                        an electronic kit when I lived in an apartment complex for noise reasons) about a year ago, and it is by
-                        far my most prized possession. I hope you enjoyed learning a little bit about me!
+                        My name is Celine Ross, and I'm a Full Stack Web Developer living in Austin, TX.
+                    </p>
+                    <p>
+                        I have a newfound and intense passion for coding, specifically frontend web development.
+                        I'm especially proficient in React, and in several CSS frameworks including Bootstrap and 
+                        React-Bootstrap, Bulma, Semantic UI, and Foundation.
+                    </p>
+                    <p>
+                        In addition, I have extensive experience and practice with backend tools and languages such as JavaScript and jQuery, 
+                        databases like MySQL and MongoDB, ORMs like Mongoose and Sequelize, CLI applications, GitHub and GitLab, and 
+                        countless other technologies.
+                    </p>
+                    <p>
+                        On top of my practical experience, I have a relatively easy time learning new concepts and catching on 
+                        quickly to new frameworks and languages. I am highly motivated to take on new challenges, and enjoy 
+                        testing my limits under pressure! I'm looking forward to a new adventure once graduating from UTSA's
+                        Web Development Bootcamp in January 2021.
+                    </p>
+                    <p>
+                        In my free time, I love reading, sketching, and writing short stories. I also play drums, and aspire to 
+                        one day improve enough to join a band and play live music at small bars and restaurants! I also aspire to write a novel, 
+                        but more often than not I find between my career goals and side aspirations, there are hardly enough hours 
+                        in a day!
+                    </p>
+                    <p style={{fontSize:"30px"}}>
+                        Take a look at my portfolio above for more!
                     </p>
                 </section>
             </div>

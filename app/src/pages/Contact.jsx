@@ -26,7 +26,7 @@ function Contact() {
                         my best to respond as quickly as possible.
                     </p>
                     <p>
-                        You can contact me at 512-968-8048, please leave a voicemail and I'll get back to you the same day.
+                        You can contact me at 512-968-8048, please leave a voicemail or text and I'll get back to you the same day.
                     </p>
                     <p>
                         If email is preferred, my address is <a href="mailto:celineross@gmail.com" style={styles.linkColor} target="_blank" rel="noreferrer">celineross@gmail.com</a>.
