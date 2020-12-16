@@ -1,28 +1,19 @@
-/* border box shortcut */
-* {
-    box-sizing: border-box;
-}
 
 /* background and text formatting */
 body {
-    background-image: "url(/images/background.jpg)";
-    background-size: cover;
+    background-image: url("https://images.designtrends.com/wp-content/uploads/2015/11/06084012/Light-Brown-Backgrounds.jpg");
     background-attachment: fixed;
     font-weight: bolder;
     font-size: large;
     color: black;
-}
-
-/* establish size of my photo */
-.img-me {
-    width: 25%;
-    float: left;
+    position: relative;
+    padding-bottom: 60px;
 }
 
 /* background color of content boxes */
 .col-lg-12 {
     background-color: rgba(66, 53, 28, 0.575);
-    padding: 20px 20px 30px 15px;
+    padding: 50px;
 }
 
 /* establish font size and color */
@@ -41,20 +32,28 @@ h1 {
     width: 100%;
     max-width: 80%;
     margin: 0 auto;
+    margin-bottom: 40px;
 }
 
 /* centers portfolio thumbnails */
-.col-lg-6 {
+.col-lg-4 {
     margin: 0 auto;
 }
 
 /* space between thumbnails */
 .sites {
     width: 100%;
+    height: 200px;
 }
 
 /* change sticky footer color */
 .footer {
+    margin-top: 1rem;
+    padding: 1rem;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
     background-color: rgba(66, 53, 28, 0.575);
 }
 
@@ -67,7 +66,8 @@ h1 {
     }
 
     .img-me {
-        width: 45%;
+        max-width: 100%;
+        height: auto;
     }
 
     h1 {
@@ -84,7 +84,8 @@ h1 {
 
     .img-me {
         display: block;
-        width: 100%;
+        max-width: 100%;
+        height: auto;
     }
 
     h1 {

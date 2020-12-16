@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.aed7ed00.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.8a9248cb.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.8a9248cb.chunk.js.map",
+    "main.css": "/React-Portfolio/static/css/main.ac3bc470.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.396601e1.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.396601e1.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.127bb608.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.127bb608.js.map",
     "static/js/2.d1e5b44d.chunk.js": "/React-Portfolio/static/js/2.d1e5b44d.chunk.js",
@@ -10,20 +10,20 @@
     "static/js/3.f69f9d7f.chunk.js": "/React-Portfolio/static/js/3.f69f9d7f.chunk.js",
     "static/js/3.f69f9d7f.chunk.js.map": "/React-Portfolio/static/js/3.f69f9d7f.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
-    "static/css/main.aed7ed00.chunk.css.map": "/React-Portfolio/static/css/main.aed7ed00.chunk.css.map",
+    "static/css/main.ac3bc470.chunk.css.map": "/React-Portfolio/static/css/main.ac3bc470.chunk.css.map",
     "static/js/2.d1e5b44d.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.d1e5b44d.chunk.js.LICENSE.txt",
     "static/media/artisthub.3d83cf0a.png": "/React-Portfolio/static/media/artisthub.3d83cf0a.png",
     "static/media/audiofiler.bec879a7.jpg": "/React-Portfolio/static/media/audiofiler.bec879a7.jpg",
     "static/media/budget.83306208.png": "/React-Portfolio/static/media/budget.83306208.png",
     "static/media/emp.23f4fca7.png": "/React-Portfolio/static/media/emp.23f4fca7.png",
-    "static/media/myself_resized.2c23e072.jpg": "/React-Portfolio/static/media/myself_resized.2c23e072.jpg",
+    "static/media/myself_resized.ba1ada79.jpg": "/React-Portfolio/static/media/myself_resized.ba1ada79.jpg",
     "static/media/nightin.4a0a88a0.png": "/React-Portfolio/static/media/nightin.4a0a88a0.png",
     "static/media/resume.3ba16398.pdf": "/React-Portfolio/static/media/resume.3ba16398.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.127bb608.js",
     "static/js/2.d1e5b44d.chunk.js",
-    "static/css/main.aed7ed00.chunk.css",
-    "static/js/main.8a9248cb.chunk.js"
+    "static/css/main.ac3bc470.chunk.css",
+    "static/js/main.396601e1.chunk.js"
   ]
 }
